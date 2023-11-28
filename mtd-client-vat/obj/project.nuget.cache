@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "opyR6PTqFbHToSbPAadtA7GM/AeFoj55GyM+/3hTAOxgtrhnwAju+DSKYQZ/NpSnvuD7FVBEF8rN2X8DDTJx6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\virendra.vyas\\Downloads\\HMRC\\hmrc_mtd-master\\HMRC_MTD\\mtd-client-vat\\mtd-client-vat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virendra.vyas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\virendra.vyas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\virendra.vyas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\virendra.vyas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\virendra.vyas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\virendra.vyas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

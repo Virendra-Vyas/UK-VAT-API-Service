@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\mtd-client-vat.props" />
+</Project>
